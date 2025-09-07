@@ -37,4 +37,4 @@ Dataset: [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uo
 
 ## 📊 Power BI Dashboard File
 The interactive Power BI report is included as a .pbix file in this repository.
-For convenience, screenshots of the dashboard are also provided so you can preview key insights without opening Power BI.
+For convenience, screenshots of the dashboard are also provided so you can preview key insights without opening Power BI in `Dashboard Screenshots/` folder  
