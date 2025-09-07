@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache if preprocessing scripts exist
+__pycache__/
+*.pyc
+
+# Ignore Power BI autosave/backups
+*.tmp
+*.bak
+*.pbix.lock
+
+# Ignore large datasets (keep only small sample or link to Kaggle)
+data/*.csv
+data/*.xlsx
